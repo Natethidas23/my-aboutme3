@@ -27,12 +27,31 @@
 .App-link {
   color: #61dafb;
 }
-
+.fit-image {
+  width: 400px;
+}
+.About{
+  background-color: chocolate;
+}
+.About-pic{
+  width: 400px;
+}
+.key1{
+  color:chocolate;
+  font-size: larger;
+  text-decoration-color: black;
+}
+.key2{
+  color: #282c34;
+  font-size: larger;
+  font-style: inherit;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
   }
   to {
     transform: rotate(360deg);
+    
   }
 }
